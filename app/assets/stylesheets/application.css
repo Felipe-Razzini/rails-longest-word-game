@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+ .blue-box {
+  width: 45px;
+  height: 45px;
+  font-size: larger;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: white;
+  margin-inline: 5px;
+  text-align: center;
+  justify-content: center;
+ }
+
+ .word-input {
+  width: 500px;
+ }
